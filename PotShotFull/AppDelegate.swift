@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  PotShotFull
+//  Shooter
 //
-//  Created by Nuala O' Dea on 05/08/2015.
+//  Created by Nuala O' Dea on 27/07/2015.
 //  Copyright (c) 2015 oisinnolan. All rights reserved.
 //
 
